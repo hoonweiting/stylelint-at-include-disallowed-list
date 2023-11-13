@@ -1,6 +1,6 @@
 {
   "name": "stylelint-at-include-disallowed-list",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Stylelint rule for disallowing mixins to at-include",
   "main": "index.js",
   "author": "Wei Ting",
