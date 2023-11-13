@@ -1,0 +1,21 @@
+{
+  "name": "stylelint-at-include-disallowed-list",
+  "version": "0.0.0",
+  "description": "Stylelint rule for disallowing mixins to at-include",
+  "main": "index.js",
+  "author": "Wei Ting",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoonweiting/stylelint-at-include-disallowed-list.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hoonweiting/stylelint-at-include-disallowed-list/issues"
+  },
+  "homepage": "https://github.com/hoonweiting/stylelint-at-include-disallowed-list#readme",
+  "keywords": [
+    "stylelint",
+    "stylelint-plugin",
+    "scss"
+  ]
+}
